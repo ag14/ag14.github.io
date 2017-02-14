@@ -1,6 +1,6 @@
 var PSV = new PhotoSphereViewer({
-    panorama: 'https://raw.githubusercontent.com/JeremyHeleine/Photo-Sphere-Viewer/master/examples/sun.jpg',
-    container: 'photosphere',
+    panorama: 'https://raw.githubusercontent.com/ag14/ag14.github.io/master/2.jpg',
+    container: 'photosphere4',
     loading_img: '',
     navbar: 'autorotate zoom download fullscreen',
     caption:'',
@@ -11,4 +11,3 @@ var PSV = new PhotoSphereViewer({
     }
   }
 );
-
